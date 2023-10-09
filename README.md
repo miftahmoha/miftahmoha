@@ -1,6 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://media.tenor.com/M1ZXWBbC-_cAAAAd/city-tokyo.gif" alt="Tokyo City GIF" />
-</div>
+<img src="https://media.tenor.com/M1ZXWBbC-_cAAAAd/city-tokyo.gif" alt="Tokyo City GIF" />
+
 
 <h1 align="center">Hi 👋, I'm Achraf</h1>
 <h3 align="center">A passionate recent machine learning graduate from Morocco</h3>
