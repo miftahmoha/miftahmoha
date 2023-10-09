@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miftahmoha&label=Profile%20views&color=0e75b6&style=flat" alt="miftahmoha" /> </p>
 
-- 🔭 I’m currently working on **machine learning projects, recently focusing on LLMs.**
+- 🔭 I’m currently working on **machine learning projects, recently focusing on LLMs**
 
-- 🌱 I’m currently learning **pre-training & finetuning LLMs.**
+- 🌱 I’m currently learning **pre-training & finetuning LLMs**
+
+- 🚀 I'm interested in Bayesian inference, scientific machine learning and deep learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/miftahmoha](https://github.com/miftahmoha)
 
