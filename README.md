@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center>
   <img src="https://media.tenor.com/M1ZXWBbC-_cAAAAd/city-tokyo.gif" />
 </div>
 
