@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://tenor.com/view/city-tokyo-russia-bataysk-gif-22788894" />
+  <img src="https://media.tenor.com/M1ZXWBbC-_cAAAAd/city-tokyo.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Achraf</h1>
