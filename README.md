@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://media.tenor.com/M1ZXWBbC-_cAAAAd/city-tokyo.gif" alt="Tokyo City GIF"> </p>
 
 <h1 align="center">Hi 👋, I'm Achraf</h1>
-<h3 align="center">A passionate recent machine learning graduate from Morocco</h3>
+<h3 align="center">A passionate machine learning graduate from Morocco.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miftahmoha&label=Profile%20views&color=0e75b6&style=flat" alt="miftahmoha" /> </p>
 
