@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://media.tenor.com/M1ZXWBbC-_cAAAAd/city-tokyo.gif" alt="Tokyo City GIF" />
 </div>
 
