@@ -1,5 +1,6 @@
-<img src="https://i.ibb.co/QXhttxp/digital-city.gif"/>
-
+<div style="text-align: center;">
+  <img src="https://i.ibb.co/QXhttxp/digital-city.gif" alt="Digital City GIF" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Achraf</h1>
 <h3 align="center">A passionate recent machine learning graduate from Morocco</h3>
