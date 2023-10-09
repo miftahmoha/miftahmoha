@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/miftahmoha](https://github.com/miftahmoha)
 
-- 📫 How to reach me **m.miftah.achraf@gmail.com.**
+- 📫 How to reach me **m.miftah.achraf@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/miftahmoha](https://www.linkedin.com/in/miftahmoha)
 
