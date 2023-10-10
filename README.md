@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **pre-training & finetuning LLMs**
 
-- 🚀 I'm currently interested in **bayesian inference, scientific machine learning and deep learning**.
+- 🚀 I'm currently interested in **bayesian inference, scientific machine learning and deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/miftahmoha](https://github.com/miftahmoha)
 
